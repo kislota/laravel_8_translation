@@ -1,5 +1,5 @@
 {
-    "name": "waavi/translation",
+    "name": "kislota/laravel_8_translation",
     "description": "A Translation package for Laravel 5 with database and cache support",
     "keywords": [
         "waavi",
